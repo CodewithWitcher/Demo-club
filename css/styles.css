@@ -119,11 +119,11 @@ background: transparent;
 }
 .btn:hover {
 	 color:#444 !important;
-	background:#7e0e04;
+	background:#ac4108;
 }
  a:hover {
 	
-	 color:#7e0e04 !important;
+	 color:#b12516 !important;
  }
 .btn{
 display: inline-block;
@@ -306,7 +306,7 @@ background: rgb(34, 34, 34);
 /*.carousel-inner*/
 #myCarousel {
 	margin-top: 50px;
-	border-bottom: 4px solid #FFDF00;
+	border-bottom: 4px solid #7e0e04;
 }
 .carousel-inner > .item {
 }
@@ -357,7 +357,7 @@ background: rgb(34, 34, 34);
 	line-height: 18px;
 }
 .navbar-brand b {
-	color: #FFDF00;
+	color:#7e0e04;
 	font-family: 'Oswald', sans-serif;
 	font-weight: 900;
 }
