@@ -595,7 +595,10 @@ img, video, iframe, embed, object {
 /* Features
     -------------------------------------------------*/
 #aboutUs {
+	/*background
 	background: #fff;
+	-----------------------------------*/
+	background: rgb(34,34,34);
 	padding-top: 35px;
 	padding-bottom: 25px;
 	overflow: hidden;
