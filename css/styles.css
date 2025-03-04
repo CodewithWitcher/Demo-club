@@ -410,7 +410,7 @@ color: #000;
 	font-weight: 400;
 }
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-	color: #FFDF00;
+	color: #7e0e04;
 	background: none;
 	border-bottom: 2px solid #7e0e04;
 	border-radius: 0px;
