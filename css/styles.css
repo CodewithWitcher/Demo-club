@@ -15,10 +15,10 @@ body {
 	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
 	line-height: 1.7;
-	color: rgb(34,34,34);
+	color: #fff;
 	-webkit-font-smoothing: antialiased;
 	-webkit-text-size-adjust: 100%;
-	background: #fff;
+	background: rgb(34,34,34);
 	transition: all 0.3s linear;
 	-webkit-transition: all 0.3s linear;
 	-moz-transition: all 0.3s linear;
